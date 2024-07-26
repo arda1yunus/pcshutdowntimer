@@ -1,4 +1,4 @@
-#By arda1yunus
+#By github.com/arda1yunus
 
 from datetime import datetime
 from time import sleep
